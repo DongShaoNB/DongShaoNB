@@ -8,6 +8,7 @@
 - QQ: 1964545962
 
 🔗Link:
+- <a href="https://www.dsnbo.cn/" title="Server Website">东少の个人博客</a>
 - <a href="https://www.mcbeserver.cn/" title="Server Website">未来城官网</a>
 - <a href="http://plan.mcbeserver.cn:4433/" title="Server Info">未来城信息</a>
 - <a href="http://skin.mcbeserver.cn:1212/" title="Server Skin Center">未来城皮肤站</a>
