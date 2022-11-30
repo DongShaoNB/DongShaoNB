@@ -1,6 +1,8 @@
 ## Hello!
 
 - Name: DongShaoNB
+- Age: 16
+- Birthday: 2006-07-25
 - Country: China
 - Games: Minecraft, Clash of Clans
 - Minecraft Server: 未来城(WLC)
