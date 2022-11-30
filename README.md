@@ -1,5 +1,6 @@
-## Hello!
+## Hello!:hand:
 
+Profile:
 - Name: DongShaoNB
 - Age: 16
 - Birthday: 2006-07-25
@@ -7,6 +8,7 @@
 - Games: Minecraft, Clash of Clans, Brawl Stars
 - Minecraft Server: 未来城(WLC)
 - QQ Group: 568150766
+-
 - QQ: 1964545962
 
 🔗Link:
