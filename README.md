@@ -1,6 +1,6 @@
-## Hello!:hand:
+## ✋Hello!
 
-Profile:
+👦Profile:
 - Name: DongShaoNB
 - Age: 16
 - Birthday: 2006-07-25
