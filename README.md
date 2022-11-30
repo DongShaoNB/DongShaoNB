@@ -7,9 +7,14 @@
 - Country: China
 - Games: Minecraft, Clash of Clans, Brawl Stars
 - Minecraft Server: 未来城(WLC)
-- QQ Group: 568150766
--
+- WLC QQ Group: 568150766
+
+📞Contact:
+- WeChat: YDongShaoNB
 - QQ: 1964545962
+- DoDoID: 297714109(DongShaoNB) 
+- Discord: DongShaoNB#8897
+- Telegram: DongShaoNB
 
 🔗Link:
 - <a href="https://www.dsnbo.cn/" title="Server Website">东少の个人博客</a>
