@@ -4,7 +4,7 @@
 - Age: 16
 - Birthday: 2006-07-25
 - Country: China
-- Games: Minecraft, Clash of Clans
+- Games: Minecraft, Clash of Clans, Brawl Stars
 - Minecraft Server: 未来城(WLC)
  - QQ Group: 568150766
 - QQ: 1964545962
