@@ -1,9 +1,11 @@
 ## Hi there :wave:
 I'm DongShaoNB, a high school student, like developing Minecraft plugin and other.  
+  
 I have a Minecraft server(未来城), I like Minecraft so I create this server.
 
 ## Website :globe_with_meridians:
 Main: https://www.dsnbo.cn/  
+  
 Jenkins: https://ci.dsnbo.cn/ (build my plugin)
 
 ## Language :bar_chart:
