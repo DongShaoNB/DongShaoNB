@@ -15,6 +15,7 @@ Jenkins: https://ci.dsnbo.cn/ (build my plugin)
 
 ## Contact :iphone:
 - QQ: `1964545962`
+- WeChat: `YDongShaoNB`
 - Email: `dongshaonb@qq.com`
 - X: `DongShaoNB`
 - Telegram: `DongShaoNB`
