@@ -27,8 +27,8 @@ I'm DongShaoNB, a high school student and developer from China, like Minecraft a
 ![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-%2310B981?style=for-the-badge&logo=rockylinux&logoColor=FFFFFF)
 
 ### GitHub Stats
-![DongShaoNB's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongShaoNB&show_icons=true&hide_title=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DongShaoNB&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![DongShaoNB's GitHub stats](https://github-readme-stats-s4n3.vercel.app/api?username=DongShaoNB&show_icons=true&hide_title=true&count_private=true)
+[![Top Langs](http://github-readme-stats-s4n3.vercel.app/api/top-langs/?username=DongShaoNB&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contact :iphone:
 - QQ: `1964545962`
