@@ -1,9 +1,5 @@
 ## Hi there :wave:
 I'm DongShaoNB, a high school student, like developing Minecraft plugin and other.  
-  
-I have a Minecraft server(未来城), I like Minecraft so I create this server.  
-  
-Like music!
 
 ## Website :globe_with_meridians:
 Blog: https://www.dsnbo.cn/  
