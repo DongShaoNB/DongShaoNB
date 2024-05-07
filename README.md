@@ -6,6 +6,7 @@ I'm DongShaoNB, a high school student and developer from China, like Minecraft a
 ![Netease Cloud Music](https://img.shields.io/badge/Netease%20Cloud%20Music-%23D43C33?style=for-the-badge&logo=neteasecloudmusic&logoColor=FFFFFF)
 ### Language 
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=FFFFFF)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=FFFFFF)
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=FFFFFF) 
 ### Tool
 ![IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000?style=for-the-badge&logo=Intellij%20IDEA&logoColor=FFFFFF)
