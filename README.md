@@ -33,7 +33,6 @@ I'm DongShaoNB, a high school student and developer from China, like Minecraft a
 
 # Contact :iphone:
 - QQ: `1964545962`
-- Email: `dongshaonb@outlook.com`
+- Email: `dongshaonbo@outlook.com`
 - X: `DongShaoNB`
-- Telegram: `DongShaoNB`
 - Discord: `DongShaoNB`
