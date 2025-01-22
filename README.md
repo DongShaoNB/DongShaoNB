@@ -35,5 +35,6 @@ I'm DongShao(东少), a student and developer from China, like Minecraft and Mus
 - QQ: `1964545962`
 - WeChat: `YDongShaoO`
 - Email: `dongshaonb@qq.com`
+- Email: `i@dsnb.cc`
 - X(Twitter): `DongShaoNB`
 - Discord: `DongShaoNB`
