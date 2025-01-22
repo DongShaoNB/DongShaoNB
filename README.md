@@ -1,5 +1,5 @@
 # Hi there :wave:
-I'm DongShao, a student and developer from China, like Minecraft and Music!  
+I'm DongShao(东少), a student and developer from China, like Minecraft and Music!  
 
 ![Mojang](https://img.shields.io/badge/Mojang-%23EF323D?style=for-the-badge&logo=mojangstudios&logoColor=FFFFFF)
 ![Minecraft](https://img.shields.io/badge/Minecraft-%233C8527?style=for-the-badge&logoColor=FFFFFF)
