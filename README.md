@@ -28,13 +28,12 @@ I'm DongShao(东少), a student and developer from China, like Minecraft and Mus
 ![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-%2310B981?style=for-the-badge&logo=rockylinux&logoColor=FFFFFF)
 
 ### GitHub Stats
-![DongShaoNB's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongShaoNB&show_icons=true&hide_title=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DongShaoNB&layout=compact)
+![DongShaoNB's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongShaoNB&show_icons=true&hide_title=true&count_private=true&theme=catppuccin_mocha)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DongShaoNB&layout=compact&theme=catppuccin_mocha)
 
 # Contact :iphone:
 - QQ: `1964545962`
-- WeChat: `YDongShaoO`
-- Email: `dongshaonb@qq.com`
+- WeChat: `cpansir`
 - Email: `i@dsnb.cc`
 - X(Twitter): `DongShaoNB`
 - Discord: `DongShaoNB`
