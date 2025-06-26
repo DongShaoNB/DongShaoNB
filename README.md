@@ -31,6 +31,9 @@ I'm DongShao(东少), a student and developer from China, like Minecraft and Mus
 ![DongShaoNB's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongShaoNB&show_icons=true&hide_title=true&count_private=true&theme=catppuccin_mocha)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DongShaoNB&layout=compact&theme=catppuccin_mocha)
 
+### Views
+![Views](https://count.getloli.com/@DongShaoNB?theme=capoo-2&align=center&darkmode=auto)
+
 # Contact :iphone:
 - QQ: `1964545962`
 - WeChat: `cpansir`
